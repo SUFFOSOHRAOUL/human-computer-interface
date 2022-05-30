@@ -8,6 +8,13 @@
 .menu-bar
 {
     background-image:linear-gradient(to right, #6bd9ef,#7ce08a);
+    max-height: fit-content;
+}
+.logo{
+    height: 60px;
+    width: 120px;
+    border-radius: 60px;
+    
 }
 .nav-link
 {
