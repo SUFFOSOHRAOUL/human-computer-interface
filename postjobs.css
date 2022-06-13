@@ -1,0 +1,47 @@
+.job-update{
+    align-content: center;
+    width: 60%;
+   padding: 30px;
+   border-radius: 10px;
+   margin: 20px 0;
+   box-shadow: 0 20px 40px 0 rgba(110, 130, 208, .2);
+   padding-left: 4%;
+   padding-right: 4%;
+   background-color: rgba(183, 238, 241, 0.3);
+
+}
+.fields{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 10%;
+}
+input{
+width: 75% !important;
+border-radius: 20px;
+height: 60px;
+    
+}
+
+.form{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+ .btn-primary{
+    padding-left: 40%;
+    width: 80px !important;
+    height: 40px !important;
+     border-radius: 30px;
+     display: flex !important;
+     justify-content: center !important;
+     align-items: center !important;
+ }
