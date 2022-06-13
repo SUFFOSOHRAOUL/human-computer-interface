@@ -1,5 +1,5 @@
 
-#{
+*{
     padding: 0;
     margin: 0;
     font-family: sans-serif;
@@ -32,12 +32,12 @@
     border: none;
 }
 #accordionFlushExample{
-   align-content: center;
-     width: 75%;
-    padding: 30px;
-    border-radius: 10px;
-    margin: 20px 0;
-    box-shadow: 0 20px 40px 0 rgba(110, 130, 208, .2);
+    align-content: center;
+    width: 75%;
+   padding: 30px;
+   border-radius: 10px;
+   margin: 20px 0;
+   box-shadow: 0 20px 40px 0 rgba(110, 130, 208, .2);
  }
  .accordion{
      padding-left: 15%;
