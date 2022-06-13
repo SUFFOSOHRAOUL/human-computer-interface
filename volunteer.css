@@ -17,10 +17,9 @@
 }
 .nav-link
 {
-    font-size: 16px;
+    font-size: 25px;
     color: #fff !important;
     margin: 2px;
-
 }
 .navbar-nav{
     text-align: right;
@@ -33,7 +32,7 @@
 
 
 
-#otherjobs h2{
+ h2{
     text-align: center;
     padding-top: 30px;
     font-size: 50px;
