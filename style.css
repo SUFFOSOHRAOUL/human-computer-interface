@@ -146,7 +146,7 @@ max-width: 30px;
     border-bottom-right-radius:5px;
 
 }
-.apply-btn .btn-primary{
+.apply-btn p{
     padding: 0 30px;
     float: right;
     border-radius: 0;

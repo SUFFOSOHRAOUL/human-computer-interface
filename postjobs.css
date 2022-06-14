@@ -23,7 +23,17 @@ border-radius: 20px;
 height: 60px;
     
 }
+.apply{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+.apply input{
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+}
 .form{
     margin-top: 70px;
     display: flex;
